@@ -166,11 +166,11 @@ const Home = () => {
                     </div>
 
                 </div>
-        </div>
 
-        <TimelineSection></TimelineSection>
+        <TimelineSection />
 
         <LearningLanguageSection />
+        </div>
     </div>
 
       {/*Section 3 */}
